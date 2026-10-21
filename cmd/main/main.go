@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Logistics_App/internal/config"
 	"log/slog"
+	"logistics_App/internal/config"
 	"os"
 )
 
